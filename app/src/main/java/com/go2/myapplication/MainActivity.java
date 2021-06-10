@@ -3,7 +3,7 @@ package com.go2.myapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+//tesuto
 public class MainActivity extends AppCompatActivity {
 
     @Override
